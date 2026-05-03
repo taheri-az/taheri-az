@@ -10,7 +10,7 @@ I work on high-level planning and decision-making in unknown environments. My re
 
 - 🧠 Temporal logic-based task planning (LTL, scLTL)
 - 🤖 Autonomous systems & robot navigation
-- 🔗 Product automata and decision-making under uncertainty
+- 🔗 decision-making under uncertainty
 - 👥 Multi-agent systems and coordination
 
 ---
