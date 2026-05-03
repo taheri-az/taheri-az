@@ -29,31 +29,31 @@ My goal is to design provably correct planning frameworks that allow robots to:
 
 **🔹 Temporal-Logic-Aware Frontier-Based Exploration**
 High-level exploration framework that integrates temporal logic with frontier-based exploration in unknown environments.
-📄 [Paper (ACC 2026)](https://arxiv.org/abs/2602.18951) · 🔗 [Repo](https://github.com/taheri-az/Temporal-Logic-Aware-Frontier-Based-Exploration)
+📄 [Paper](https://arxiv.org/abs/2602.18951) · 🔗 [Repo](https://github.com/taheri-az/Temporal-Logic-Aware-Frontier-Based-Exploration)
 
 ---
 
 **🔹 State-Estimation-Aware Planning for Autonomous Systems with Temporal Logic Specifications**
 AT Büyükkoçak, Y Hu, A Taheri, D Aksaray, D Gebre-Egziabher · *AIAA SCITECH 2023 Forum*
-📄 [Paper (AIAA)](https://arc.aiaa.org/doi/abs/10.2514/6.2023-2665)
+📄 [Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2023-2665)
 
 ---
 
 **🔹 Motion Planning Under Temporal Logic Specifications in Semantically Unknown Environments**
 A Taheri, D Aksaray · *ACC 2026*
-📄 [Paper (arXiv)](https://arxiv.org/abs/2511.03652)
+📄 [Paper](https://arxiv.org/abs/2511.03652)
 
 ---
 
 **🔹 Robust Temporal Logic Planning under Contingency Constraints**
 SB Yüksel, A Taheri, Y Yazıcıoğlu, D Aksaray · *IEEE CASE 2025*
-📄 [Paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/11163815)
+📄 [Paper](https://ieeexplore.ieee.org/abstract/document/11163815)
 
 ---
 
 **🔹 Temporal Logic Motion Planning of a UAV-UGV Team in Semantically Unknown Environments**
 A Taheri, YM Phalle, D Aksaray · *AIAA SCITECH 2026 Forum*
-📄 [Paper (AIAA)](https://arc.aiaa.org/doi/abs/10.2514/6.2026-0566)
+📄 [Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2026-0566)
 
 ---
 
