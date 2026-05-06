@@ -57,11 +57,12 @@ A Taheri, YM Phalle, D Aksaray · *AIAA SCITECH 2026 Forum*
 
 ---
 
-##  CV & Links
+##  Links
 
+-  [CV](https://github.com/taheri-az/taheri-az/raw/main/CV.pdf)
 -  [Google Scholar](https://scholar.google.com/citations?user=1kcTdRkAAAAJ&hl=en)
 -  [LinkedIn](https://www.linkedin.com/in/azizollah-taheri-b0b37616b)
--  [CV](https://github.com/taheri-az/taheri-az/raw/main/CV.pdf)
+-  [Website](https://taheri-az.github.io/)
 
 ---
 
