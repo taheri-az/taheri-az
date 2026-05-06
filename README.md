@@ -1,6 +1,6 @@
 # Hi, I'm Aziz 
 
-**PhD Researcher in Robotics & Formal Methods** · 📍 Northeastern University
+**Ph.D. Student in Robotics & Formal Methods** ·  Northeastern University
 
 ---
 
@@ -15,7 +15,7 @@ I work on high-level planning and decision-making in unknown environments. My re
 
 ---
 
-## 🚀 Research Focus
+##  Research Focus
 
 My goal is to design provably correct planning frameworks that allow robots to:
 
@@ -57,17 +57,17 @@ A Taheri, YM Phalle, D Aksaray · *AIAA SCITECH 2026 Forum*
 
 ---
 
-## 📄 CV & Links
+##  CV & Links
 
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=1kcTdRkAAAAJ&hl=en)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/azizollah-taheri-b0b37616b)
-- 📄 [CV](https://github.com/taheri-az/taheri-az/raw/main/CV.pdf)
+-  [Google Scholar](https://scholar.google.com/citations?user=1kcTdRkAAAAJ&hl=en)
+-  [LinkedIn](https://www.linkedin.com/in/azizollah-taheri-b0b37616b)
+-  [CV](https://github.com/taheri-az/taheri-az/raw/main/CV.pdf)
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Feel free to reach out for collaboration, research discussions, or opportunities.
 
-📧 [taheri.az@northeastern.edu](mailto:taheri.az@northeastern.edu)
+ [taheri.az@northeastern.edu](mailto:taheri.az@northeastern.edu)
 
