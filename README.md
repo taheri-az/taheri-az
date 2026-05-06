@@ -1,17 +1,17 @@
-# Hi, I'm Aziz 👋
+# Hi, I'm Aziz 
 
 **PhD Researcher in Robotics & Formal Methods** · 📍 Northeastern University
 
 ---
 
-## 🔍 About Me
+## About Me
 
 I work on high-level planning and decision-making in unknown environments. My research focuses on bridging formal methods and robotic autonomy to enable reliable behavior in complex, uncertain settings.
 
-- 🧠 Temporal logic-based task planning (LTL, scLTL)
-- 🤖 Autonomous systems & robot navigation
-- 🔗 decision-making under uncertainty
-- 👥 Multi-agent systems and coordination
+-  Temporal logic-based task planning
+-  Autonomous systems & robot navigation
+-  decision-making under uncertainty
+-  Multi-agent systems and coordination
 
 ---
 
@@ -25,7 +25,7 @@ My goal is to design provably correct planning frameworks that allow robots to:
 
 ---
 
-## 📂 Featured Projects & Publications
+##  Featured Projects & Publications
 
 **🔹 Temporal-Logic-Aware Frontier-Based Exploration**
 High-level exploration framework that integrates temporal logic with frontier-based exploration in unknown environments.
@@ -71,4 +71,3 @@ Feel free to reach out for collaboration, research discussions, or opportunities
 
 📧 [taheri.az@northeastern.edu](mailto:taheri.az@northeastern.edu)
 
-> ⭐️ Interested in robotics, planning, and formal methods — always open to collaboration!
