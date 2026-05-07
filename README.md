@@ -1,6 +1,6 @@
 # Hi, I'm Aziz 
 
-**Ph.D. Student in Robotics & Formal Methods** ·  Northeastern University
+**Graduate Researcher in Robotics and Formal Methods** ·  Northeastern University
 
 ---
 
