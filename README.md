@@ -62,7 +62,7 @@ AT Büyükkoçak, Y Hu, A Taheri, D Aksaray, D Gebre-Egziabher · *AIAA SCITECH 
 
 ##  Links
 
--  [CV](https://github.com/taheri-az/taheri-az/raw/main/CV.pdf)
+-  [CV](https://github.com/taheri-az/taheri-az/raw/main/CV.pdf?v=2)
 -  [Google Scholar](https://scholar.google.com/citations?user=1kcTdRkAAAAJ&hl=en)
 -  [LinkedIn](https://www.linkedin.com/in/azizollah-taheri-b0b37616b)
 -  [Website](https://taheri-az.github.io/)
